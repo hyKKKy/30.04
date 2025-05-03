@@ -32,7 +32,6 @@
 
 //Task 3 
 let range;
-let secret;
 let min = 0; 
 let max = 100;
 
